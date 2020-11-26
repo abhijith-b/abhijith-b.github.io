@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: 0.8;
+}
+
+h1 {text-align: center;
+     color: black;
+     font-family: Helvetica;
+}
+
+
