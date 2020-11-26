@@ -1,3 +1,3 @@
 # abhijith-b.github.io
 
-fast, fluid and responsive modern website 
+fast, fluid and fantastic responsive modern website 
